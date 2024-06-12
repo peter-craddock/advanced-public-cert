@@ -1,0 +1,8 @@
+The chain.cer file has been created with
+
+Anyway, I created a chain like so:
+
+My own certificate (exported from HSM in der format)    - Advanced_Computer_Software_Group_Ltd_GlobalSign_GCC_R45_EV_CodeSigning_CA_2020_.cer
+GlobalSign GCC R45 CodeSigning CA 2020                  - GlobalSignCodeIntR45.cer
+GlobalSign Code Signing Root R45 (R3 cross)             - r3csr45cross2020.cer
+GlobalSign Root (CA R3)                                 - GlobalSignRootCAR3.cer
